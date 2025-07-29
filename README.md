@@ -6,6 +6,7 @@ I have tested this on ubuntu 22.04 with python3.10.12 and have placed this scrip
 Install
 
 sudo apt install libnotify-bin # libnotify is a library used on Linux systems (especially GNOME-based desktops like Ubuntu) to display desktop notifications 
+
 sudo apt install pulseaudio-utils # paplay a command-line audio player from PulseAudio.
 
 
